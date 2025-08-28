@@ -1,4 +1,6 @@
-# Pathogen Forecast Model
+# San Diego Region COAWST model 
 
-Pathogen hindcast/forecast model, originally written by Matt Spydell. Adapted for Los Penasquitos Domain. 
+Code adapted from the pathogen hindcast/forecast model, originally written by Matt Spydell: github.com/mspydell/PFM
+This code is meant to run model on the Giddings lab "Estuaries" server. 
+
 

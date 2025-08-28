@@ -1,2 +1,4 @@
-# pathogen
-Pathogen hindcast/forecast model 
+# Pathogen Forecast Model
+
+Pathogen hindcast/forecast model, originally written by Matt Spydell. 
+
